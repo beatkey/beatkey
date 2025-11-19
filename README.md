@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beatkey&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
